@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Homepage
+title: Tanagra Space
 date: 2020-12-15T12:00:00.000+00:00
 page_sections:
   - template: navigation-header

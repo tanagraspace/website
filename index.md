@@ -34,7 +34,7 @@ page_sections:
   - template: content-feature
     block: feature-1
     media_alignment: Left
-    slug: swap
+    slug: onboard-decision-making
     headline:
       <strong>Onboard Decision-Making<span class="light">&nbsp;</span></strong><span
       class="light">to enable autonomous spacecraft operations.</span>
@@ -46,7 +46,7 @@ page_sections:
   - template: content-feature
     block: feature-1
     media_alignment: Right
-    slug: customize
+    slug: novelty-detection
     headline:
       <strong>Novelty Detection</strong><span class="light">&nbsp;to identify and highlight features of interest.
     content:
@@ -57,12 +57,19 @@ page_sections:
   - template: content-feature
     block: feature-1
     media_alignment: Left
-    slug: swap
+    slug: normalizing-ai
     headline:
       <strong>Normalizing AI<span class="light">&nbsp;</span></strong><span
       class="light">with seamless human-machine interactions.</span>
     content:
       Demystifying AI by making it accessible to operators and experimenters.
+    media:
+      image: "/assets/normalizing-ai.png"
+      alt_text: uBuild Blocks Mock-Up
+  - template: content-feature
+    block: contact
+    slug: contact
+    headline: <strong>Contact Us</strong>
     media:
       image: "/assets/normalizing-ai.png"
       alt_text: uBuild Blocks Mock-Up
